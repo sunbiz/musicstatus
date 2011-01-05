@@ -1,0 +1,11 @@
+D:\Projects\MusicStatus\MusicStatus\bin\Release\MusicStatus.exe
+D:\Projects\MusicStatus\MusicStatus\bin\Release\MusicStatus.pdb
+D:\Projects\MusicStatus\MusicStatus\bin\Release\agsXMPP.dll
+D:\Projects\MusicStatus\MusicStatus\bin\Release\agsXMPP.xml
+D:\Projects\MusicStatus\MusicStatus\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\MusicStatus\MusicStatus\obj\x86\Release\MusicStatus.OptionsForm.resources
+D:\Projects\MusicStatus\MusicStatus\obj\x86\Release\MusicStatus.Properties.Resources.resources
+D:\Projects\MusicStatus\MusicStatus\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Projects\MusicStatus\MusicStatus\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Projects\MusicStatus\MusicStatus\obj\x86\Release\MusicStatus.exe
+D:\Projects\MusicStatus\MusicStatus\obj\x86\Release\MusicStatus.pdb
