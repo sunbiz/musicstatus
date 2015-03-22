@@ -1,0 +1,1 @@
+A Windows utility that sits in the system tray and listens to multiple media players (Jetaudio, Windows Media Player, WinAmp) and updates your status message in different IM protocols (GTalk, Yahoo, MSN)
